@@ -1,0 +1,19 @@
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\bin\Debug\CourseInfo.exe.config
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\bin\Debug\CourseInfo.exe
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\bin\Debug\CourseInfo.pdb
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\obj\Debug\CourseInfo.csprojResolveAssemblyReference.cache
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\obj\Debug\CourseInfo.Form1.resources
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\obj\Debug\CourseInfo.Properties.Resources.resources
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\obj\Debug\CourseInfo.csproj.GenerateResource.Cache
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\obj\Debug\CourseInfo.exe
+c:\users\alamt\documents\visual studio 2015\Projects\CourseInfo\CourseInfo\obj\Debug\CourseInfo.pdb
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\bin\Debug\CourseInfo.exe.config
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\bin\Debug\CourseInfo.exe
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\bin\Debug\CourseInfo.pdb
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.csprojAssemblyReference.cache
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.Form1.resources
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.Properties.Resources.resources
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.csproj.GenerateResource.cache
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.csproj.CoreCompileInputs.cache
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.exe
+C:\Users\imn99\OneDrive\Desktop\CourseInfo\CourseInfo\obj\Debug\CourseInfo.pdb

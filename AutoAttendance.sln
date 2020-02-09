@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAttendance", "CourseInfo\AutoAttendance.csproj", "{076D44AA-CF06-4EED-AC52-6E5CF239DBAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{076D44AA-CF06-4EED-AC52-6E5CF239DBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076D44AA-CF06-4EED-AC52-6E5CF239DBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076D44AA-CF06-4EED-AC52-6E5CF239DBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076D44AA-CF06-4EED-AC52-6E5CF239DBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0809140F-1417-4D0A-92B7-118F465FD676}
+	EndGlobalSection
+EndGlobal
